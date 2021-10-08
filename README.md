@@ -8,6 +8,8 @@ You can play the game at: Kanishk Batra
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
+More enhancements
+
 Slide Deck: [Branching Strategies.pdf](https://github.com/githubschool/thirty-minutes-to-merge/files/6069357/Branching.Strategies.pdf)
 
 
